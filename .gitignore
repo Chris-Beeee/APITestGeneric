@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Pytest
+.pytest_cache/
+report.html
+assets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
