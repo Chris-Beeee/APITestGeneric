@@ -60,40 +60,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for tests.test_jsonplaceholder__Parent_Child_Data_Relationship.test_get_comments_for_post.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_DELETE_resource.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_FILTER_query_params.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_GET_list.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_GET_single_resource.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_NEG_DELETE_resource.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_NEG_DELETE_resource_no_userid.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_NEG_GET_single_resource.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_NEG_POST_create_resource.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_POST_create_resource.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder_PUT_update_resource.py.executor": "Run",
-    "Python tests.Python tests in test_jsonplaceholder__Parent_Child_Data_Relationship.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/cex/PycharmProjects/APItestsGEM/tests",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for tests.test_jsonplaceholder__Parent_Child_Data_Relationship.test_get_comments_for_post.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_DELETE_resource.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_FILTER_query_params.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_GET_list.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_GET_single_resource.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_NEG_DELETE_resource.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_NEG_DELETE_resource_no_userid.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_NEG_GET_single_resource.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_NEG_POST_create_resource.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_POST_create_resource.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder_PUT_update_resource.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_jsonplaceholder__Parent_Child_Data_Relationship.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cex/PycharmProjects/APItestsGEM/tests&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\cex\PycharmProjects\APItestsGEM\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py">
-    <configuration name="Python tests in test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_NEG_Parent_Child_Data_Relationship.py">
+    <configuration name="Python tests in test_NEG_FILTER_query_params_no_userid.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APItestsGEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +104,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_NEG_FILTER_query_params_no_userid.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_NEG_GET_list_mis-spelt_folder.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APItestsGEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +119,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_NEG_GET_list_mis-spelt_folder.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_jsonplaceholder_NEG_GET_single_resource.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_NEG_GET_single_resource.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APItestsGEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,11 +134,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_GET_single_resource.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_NEG_GET_single_resource.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_jsonplaceholder_NEG_POST_create_resource.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_NEG_POST_create_resource.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APItestsGEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +149,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_POST_create_resource.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_NEG_POST_create_resource.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_NEG_Parent_Child_Data_Relationship.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APItestsGEM" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,17 +164,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_NEG_Parent_Child_Data_Relationship.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_Parent_Child_Data_Relationship.py" />
-        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_POST_create_resource.py" />
-        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_GET_single_resource.py" />
-        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_GET_list_mis-spelt_folder.py" />
-        <item itemvalue="Python tests.Python tests in test_jsonplaceholder_NEG_FILTER_query_params_no_userid.py" />
+        <item itemvalue="Python tests.Python tests in test_NEG_Parent_Child_Data_Relationship.py" />
+        <item itemvalue="Python tests.Python tests in test_NEG_POST_create_resource.py" />
+        <item itemvalue="Python tests.Python tests in test_NEG_GET_single_resource.py" />
+        <item itemvalue="Python tests.Python tests in test_NEG_GET_list_mis-spelt_folder.py" />
+        <item itemvalue="Python tests.Python tests in test_NEG_FILTER_query_params_no_userid.py" />
       </list>
     </recent_temporary>
   </component>
